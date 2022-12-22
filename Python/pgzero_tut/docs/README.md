@@ -11,15 +11,15 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 2. Устанавливаем vscode 
 ```sh
-choco install vscode
+choco install -y vscode
 ```
 3. Устанавливаем python
 ```sh
-choco install python
+choco install -y python
 ```
 4. Устанавливаем pgzero
 ```sh
-pip install pgzero
+pip install -y pgzero
 ```
 ## MAC OS
 1. Устанавливаем **brew**
