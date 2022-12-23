@@ -25,7 +25,7 @@ def on_mouse_up(button, pos):
     pass
 
 
-def on_mouse_move(button, pos):
+def on_mouse_move(pos):
     pass
 
 
