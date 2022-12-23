@@ -19,7 +19,7 @@ choco install -y python
 ```
 4. Устанавливаем pgzero
 ```sh
-pip install -y pgzero
+pip install pgzero
 ```
 ## MAC OS
 1. Устанавливаем **brew**
