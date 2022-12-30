@@ -8,7 +8,7 @@ public class MoveAnim : MonoBehaviour
     public float speed = 5;
     public float jumpForce = 4;
 
-    //���ҧ�٧ѧ�֧ݧ�ߧ� �է�ҧѧӧ��� ��ӧ�֧ާ� ��֧���ߧѧا� ��ݧ֧է���ڧ� �ܧ�ާ��ߧ֧ߧ��:
+    //Обязательно добавьте своему персонажу следующие компоненты:
     public Rigidbody2D rb;
     public SpriteRenderer sr;
     public GroundDetection gr;
