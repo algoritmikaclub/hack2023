@@ -10,7 +10,6 @@ public class Move : MonoBehaviour
     public Rigidbody2D rb;
     public SpriteRenderer sr;
     public GroundDetection gr;
-    public Animator anim;
 
 
     void Update()
