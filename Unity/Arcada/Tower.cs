@@ -5,6 +5,7 @@ using UnityEngine;
 public class Tower : MonoBehaviour
 {
      //Башня
+     //Идёт в комплекте с триггером со скриптом "TriggerZone", определяющий, есть ли рядом противники
      
     public GameObject bulletPrefab; //Сохраняем префаб пули
     public float reloadTime = 1; //Время перезарядки
