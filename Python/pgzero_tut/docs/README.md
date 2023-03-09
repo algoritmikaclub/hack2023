@@ -15,7 +15,7 @@ choco install -y vscode
 ```
 3. Устанавливаем python
 ```sh
-choco install python --version=3.8.0
+choco install -y python --version=3.8.0
 ```
 4. Устанавливаем pgzero
 ```sh
